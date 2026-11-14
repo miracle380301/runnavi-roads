@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "tileDegrees": 0.02,
+  "attribution": "© OpenStreetMap contributors (ODbL 1.0)",
+  "regions": [
+    { "id": "kr", "path": "kr", "updated": "2026-11-13",
+      "minLat": 1651, "minLon": 6226, "maxLat": 1935, "maxLon": 6597 }
+  ]
+}
