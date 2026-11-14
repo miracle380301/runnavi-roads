@@ -12,6 +12,26 @@
       "maxLat": 1935,
       "maxLon": 6597,
       "paths": "kr-paths"
+    },
+    {
+      "id": "jp-tokyo",
+      "path": "jp-tokyo",
+      "updated": "2026-11-13",
+      "minLat": 1765,
+      "minLon": 6960,
+      "maxLat": 1799,
+      "maxLon": 7009,
+      "paths": "jp-tokyo-paths"
+    },
+    {
+      "id": "jp-osaka",
+      "path": "jp-osaka",
+      "updated": "2026-11-13",
+      "minLat": 1715,
+      "minLon": 6750,
+      "maxLat": 1759,
+      "maxLon": 6799,
+      "paths": "jp-osaka-paths"
     }
   ]
 }

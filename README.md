@@ -9,4 +9,6 @@ Pre-built road tiles for the RunNavi app's shape runs, so the app does not depen
 - Empty tiles (sea, no runnable roads) are stored as an empty `ways` list.
 
 Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, available under the Open Database License (ODbL) 1.0.
-Built from the Geofabrik South Korea extract with `tools/roads/build_road_tiles.py` in the app repository.
+Built from Geofabrik extracts with `tools/roads/build_road_tiles.py` and `build_path_tiles.py` in the app repository.
+
+Regions: `kr` (all of South Korea), `jp-tokyo` (35.30–36.00°N, 139.20–140.20°E: Tokyo, Yokohama, Kawasaki, Chiba, Saitama), `jp-osaka` (34.30–35.20°N, 135.00–136.00°E: Osaka, Kobe, Kyoto, Nara).
